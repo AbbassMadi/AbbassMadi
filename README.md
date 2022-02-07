@@ -17,3 +17,4 @@ of homomorphic encryption and verifiable computing. My research interests are Fu
 Adaptation of the usage of VC and FHE in different Machine Learning model, Implementation of a post-quantum cryptosystem based on the 
 rank metric and the Gabidulin Codes, and Post-quantum cryptography, multi-linear maps for cryptographical uses, Elliptic curve
 reachable at: madi_abbass@hotmail.com or LinkedIn
+site: sites.google.com/d/1aKCvOaBotszkNVQuUdhi8PrimRmYLzdA/p/1sRWxkvROFb2ddO1ad-humQu7VMxtkTUG/edit
